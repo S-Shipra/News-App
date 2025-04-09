@@ -10,11 +10,11 @@
   - [Description](#-description)
   - [Links](#-links)
   - [Tech Stack](#-tech-stack)
-  - [Progress](#Progress)
-  - [Future Scope](#FutureScope)
-  - [Applications](#Applications)
-  - [Project Setup](#ProjectSetup)
-  - [Screenshots](#Screenshots)
+  - [Progress](#-progress)
+  - [Future Scope](#-future-scope)
+  - [Applications](#-applications)
+  - [Project Setup](#-project-setup)
+  - [Screenshots](#-screenshots)
 
 </details>
 
