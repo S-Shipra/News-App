@@ -8,8 +8,8 @@
   <summary>📚 Table of Contents</summary>
 
   - [Description](#-description)
-  - [Links](#links)
-  - [Tech Stack](#TechStack)
+  - [Links](#-links)
+  - [Tech Stack](#-tech-stack)
   - [Progress](#Progress)
   - [Future Scope](#FutureScope)
   - [Applications](#Applications)
@@ -108,7 +108,7 @@ To use your own API key:
 ```js
 const apiKey = "your-api-key-here";
 ```
-▶️ 3. Run the Application
+▶️ 4. Run the Application
 
 Start the development server:
 
