@@ -40,6 +40,19 @@ Stay informed, hands-free — with **The Daily Pulse**.
 🎨 Styling: Custom CSS (App.css)
 
 📰 API: The Guardian Open Platform
+### 📈 Progress
+
+- ✅ Basic UI implemented
+- ✅ Search functionality integrated
+- ✅ News fetched from The Guardian API
+- ✅ Text-to-speech functionality added
+- ✅ Country and tag-based filtering working
+- 🚧 User authentication with login page (partially done)
+- 🚧 Responsive design improvements in progress
+- 🔜 Bookmark/save articles feature
+- 🔜 Dark mode toggle
+- 🔜 Deploy to Netlify/Vercel
+
 
 🗣️ Text-to-Speech: Web Speech API (SpeechSynthesis)
 
