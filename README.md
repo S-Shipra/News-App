@@ -7,7 +7,7 @@
 <details>
   <summary>📚 Table of Contents</summary>
 
-  - [Description](#description)
+  - [Description](#-description)
   - [Links](#links)
   - [Tech Stack](#TechStack)
   - [Progress](#Progress)
