@@ -1,5 +1,8 @@
 # The Daily Pulse
-"Smart News, Spoken Daily"
+<p align="center">
+  Smart News, Spoken Daily
+</p>
+
 &nbsp; <!-- This creates a white (blank) line -->
 <details>
   <summary>📚 Table of Contents</summary>
