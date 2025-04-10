@@ -1,0 +1,68 @@
+/* Filtered News Container */
+.filtered-news-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .filtered-news-heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .filtered-news-subheading {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .highlight {
+    color: #ff6f61; /* Highlight color for tag and country */
+  }
+  
+  /* Loading Indicator */
+  .loading-indicator {
+    font-size: 1.2rem;
+    color: white;
+    margin-top: 20px;
+  }
+  
+  /* Filtered Articles Container */
+  .filtered-articles-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .filtered-article-box {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #222;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  .filtered-article-box:hover {
+    transform: scale(1.05);
+  }
+  
+  .article-thumbnail {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .article-title {
+    padding: 10px;
+    font-size: 1.2rem;
+    color: white;
+  }
+  
+  .article-description {
+    padding: 10px;
+    font-size: 0.9rem;
+    color: #ccc;
+  }
