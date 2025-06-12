@@ -47,7 +47,7 @@ Stay informed, hands-free — with **The Daily Pulse**.
 - ✅ News fetched from The Guardian API
 - ✅ Text-to-speech functionality added
 - ✅ Country and tag-based filtering working
-- 🚧 User authentication with login page (partially done)
+- ✅ User authentication with login page 
 - 🚧 Responsive design improvements in progress
 - 🔜 Bookmark/save articles feature
 - 🔜 Dark mode toggle
