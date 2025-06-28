@@ -110,7 +110,7 @@ const apiKey = "your-api-key-here";
 ```
 ▶️ 4. Run the Application
 
-Start the development server:
+Go to the respective repository and start the development server:
 
 ```bash
 npm start
