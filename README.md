@@ -30,14 +30,13 @@
 
 Stay informed, hands-free — with **The Daily Pulse**.
 &nbsp; 
-## 🌐 Links
-&nbsp;
 ## 💻 Tech Stack
 ⚛️ Frontend Framework: React.js
 
 🔀 Routing: React Router DOM
 
 🎨 Styling: Custom CSS (App.css)
+
 🧠 Backend Stack:
 🐍 Python: Used for text-to-speech and ML model integration
 🗣️ Text-to-Speech Engine: pyttsx3 (offline, ML-based)
@@ -119,4 +118,8 @@ Go to the respective repository and start the development server:
 npm start
 ```
 ## 📱 Screenshots
+![image](https://github.com/user-attachments/assets/b49b3835-2af7-4844-9b20-7b38631b6f15)
+![image](https://github.com/user-attachments/assets/ed6407cd-2e21-4775-a732-637f8ec17ac2)
+![image](https://github.com/user-attachments/assets/8ac8eb52-c25e-458f-a35b-269ed9ddf6a1)
+
 
