@@ -29,6 +29,9 @@
 - 🔐 **Login System**: Secure sign-in to unlock a personalized news experience.
 
 Stay informed, hands-free — with **The Daily Pulse**.
+&nbsp;
+## 🌐 Link
+https://drive.google.com/drive/folders/16gUcu-w7bHJaMw38t60xPAtQigINSzmU?usp=drive_link
 &nbsp; 
 ## 💻 Tech Stack
 ⚛️ Frontend Framework: React.js
