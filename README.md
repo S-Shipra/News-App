@@ -38,6 +38,9 @@ Stay informed, hands-free — with **The Daily Pulse**.
 🔀 Routing: React Router DOM
 
 🎨 Styling: Custom CSS (App.css)
+🧠 Backend Stack:
+🐍 Python: Used for text-to-speech and ML model integration
+🗣️ Text-to-Speech Engine: pyttsx3 (offline, ML-based)
 
 📰 API: The Guardian Open Platform
 ## 📈 Progress
